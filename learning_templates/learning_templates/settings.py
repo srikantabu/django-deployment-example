@@ -26,7 +26,9 @@ SECRET_KEY = 'dyt4ayavdb35*c(^aw6gi3+wqy*nc&6b_j)&@nh+(6e^(lu8-m'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = [
+    'http://busrikanta.pythonanywhere.com/',
+]
 
 
 # Application definition
